@@ -12,4 +12,5 @@ export default {
   RECTANGLE: 'Rectangle',
   ARC: 'Arc',
   TOOL: 'Tool',
+  COMPOUNDPATH: 'CompoundPath',
 }

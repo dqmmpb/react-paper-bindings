@@ -19,6 +19,7 @@
     "react-motion": "^0.5.2",
     "react-portal": "^4.1.5",
     "react-treeview": "^0.4.7",
+    "react-reconciler": "^0.16.0",
     "recompose": "^0.30.0",
     "tether": "^1.4.5"
   },
